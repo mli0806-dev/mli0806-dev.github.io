@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html>
+<html lang="en">
     <head>
         <meta charset="UTF-8">
         <title>Sustainable Flight Project</title>
@@ -10,9 +10,19 @@
             <div class="content-box">
                 <h1>Sustainable Flight Project</h1>
                 <p>By Mitchell Li, Chun-Chun Wei, and Michael Kim</p>
-                <a href="design-rationale.html">Design Rationale</a>
-                <script type="module" src=""></script>
+                <a href="design-rationale.html">Design Rationale</a><br><br>
+                <p>Select a destination:</p>
+                <select id="destination"></select><br><br>
+                <p>Select a cabin class:</p>
+                <label><input type="radio" id="economy" name="cabin" value="economy" checked>Economy / Premium Economy</label>
+                <label><input type="radio" id="business" name="cabin" value="premium">Business / First</label>
+                <div id="results"></div>
+                <div style="height: 400px">
+                    <canvas id="co2Chart"></canvas>
+                </div>
             </div>
         </main>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script type="module" src="app.js"></script>
     </body>
 </html>
