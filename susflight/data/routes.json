@@ -8,7 +8,9 @@
         "airlines": "",
         "latitude": -9.443380355834961,
         "longitude": 147.22000122070312,
-        "distance_from_singapore": 4935.5
+        "distance_from_singapore": 4935.5,
+        "aircraft": "B789",
+        "co2_per_passenger": 483.41
     },
     {
         "iata_code": "YVR",
@@ -19,7 +21,9 @@
         "airlines": "",
         "latitude": 49.193901,
         "longitude": -123.183998,
-        "distance_from_singapore": 12811.71
+        "distance_from_singapore": 12811.71,
+        "aircraft": "A359",
+        "co2_per_passenger": 1121.18
     },
     {
         "iata_code": "BRU",
@@ -30,7 +34,9 @@
         "airlines": "",
         "latitude": 50.901402,
         "longitude": 4.48444,
-        "distance_from_singapore": 10553.93
+        "distance_from_singapore": 10553.93,
+        "aircraft": "A359",
+        "co2_per_passenger": 927.31
     },
     {
         "iata_code": "FRA",
@@ -41,7 +47,9 @@
         "airlines": "Singapore Airlines; Lufthansa",
         "latitude": 50.026706,
         "longitude": 8.55835,
-        "distance_from_singapore": 10278.8
+        "distance_from_singapore": 10278.8,
+        "aircraft": "A359",
+        "co2_per_passenger": 903.68
     },
     {
         "iata_code": "MUC",
@@ -52,7 +60,9 @@
         "airlines": "",
         "latitude": 48.353802,
         "longitude": 11.7861,
-        "distance_from_singapore": 10057.06
+        "distance_from_singapore": 10057.06,
+        "aircraft": "A359",
+        "co2_per_passenger": 884.64
     },
     {
         "iata_code": "HEL",
@@ -63,7 +73,9 @@
         "airlines": "",
         "latitude": 60.318363,
         "longitude": 24.963341,
-        "distance_from_singapore": 9273.86
+        "distance_from_singapore": 9273.86,
+        "aircraft": "A359",
+        "co2_per_passenger": 817.39
     },
     {
         "iata_code": "MAN",
@@ -74,7 +86,9 @@
         "airlines": "",
         "latitude": 53.349375,
         "longitude": -2.279521,
-        "distance_from_singapore": 10954.57
+        "distance_from_singapore": 10954.57,
+        "aircraft": "A359",
+        "co2_per_passenger": 961.71
     },
     {
         "iata_code": "LGW",
@@ -85,7 +99,9 @@
         "airlines": "",
         "latitude": 51.148744,
         "longitude": -0.185739,
-        "distance_from_singapore": 10870.6
+        "distance_from_singapore": 10870.6,
+        "aircraft": "A359",
+        "co2_per_passenger": 954.5
     },
     {
         "iata_code": "LHR",
@@ -96,7 +112,9 @@
         "airlines": "Singapore Airlines; British Airways; Qantas",
         "latitude": 51.470748,
         "longitude": -0.459909,
-        "distance_from_singapore": 10881.73
+        "distance_from_singapore": 10881.73,
+        "aircraft": "A359",
+        "co2_per_passenger": 955.45
     },
     {
         "iata_code": "AMS",
@@ -107,7 +125,9 @@
         "airlines": "Singapore Airlines; KLM",
         "latitude": 52.308601,
         "longitude": 4.76389,
-        "distance_from_singapore": 10512.49
+        "distance_from_singapore": 10512.49,
+        "aircraft": "A359",
+        "co2_per_passenger": 923.75
     },
     {
         "iata_code": "CPH",
@@ -118,7 +138,9 @@
         "airlines": "",
         "latitude": 55.617900848389,
         "longitude": 12.656000137329,
-        "distance_from_singapore": 9966.18
+        "distance_from_singapore": 9966.18,
+        "aircraft": "A359",
+        "co2_per_passenger": 876.84
     },
     {
         "iata_code": "JNB",
@@ -129,7 +151,9 @@
         "airlines": "",
         "latitude": -26.140081,
         "longitude": 28.246801,
-        "distance_from_singapore": 8656.31
+        "distance_from_singapore": 8656.31,
+        "aircraft": "B789",
+        "co2_per_passenger": 828.78
     },
     {
         "iata_code": "ADD",
@@ -140,7 +164,9 @@
         "airlines": "",
         "latitude": 8.97789,
         "longitude": 38.799301,
-        "distance_from_singapore": 7259.86
+        "distance_from_singapore": 7259.86,
+        "aircraft": "B789",
+        "co2_per_passenger": 699.16
     },
     {
         "iata_code": "EWR",
@@ -151,7 +177,9 @@
         "airlines": "",
         "latitude": 40.6894,
         "longitude": -74.170545,
-        "distance_from_singapore": 15335.21
+        "distance_from_singapore": 15335.21,
+        "aircraft": "A359",
+        "co2_per_passenger": 1337.86
     },
     {
         "iata_code": "KTI",
@@ -162,7 +190,9 @@
         "airlines": "Singapore Airlines; Emirates",
         "latitude": 11.359987,
         "longitude": 104.921272,
-        "distance_from_singapore": 1116.19
+        "distance_from_singapore": 1116.19,
+        "aircraft": "A320",
+        "co2_per_passenger": 84.98
     },
     {
         "iata_code": "JFK",
@@ -173,7 +203,9 @@
         "airlines": "",
         "latitude": 40.639447,
         "longitude": -73.779317,
-        "distance_from_singapore": 15339.01
+        "distance_from_singapore": 15339.01,
+        "aircraft": "A359",
+        "co2_per_passenger": 1338.19
     },
     {
         "iata_code": "LAX",
@@ -184,7 +216,9 @@
         "airlines": "",
         "latitude": 33.942501,
         "longitude": -118.407997,
-        "distance_from_singapore": 14100.58
+        "distance_from_singapore": 14100.58,
+        "aircraft": "A359",
+        "co2_per_passenger": 1231.85
     },
     {
         "iata_code": "SEA",
@@ -195,7 +229,9 @@
         "airlines": "",
         "latitude": 47.447943,
         "longitude": -122.310276,
-        "distance_from_singapore": 12977.94
+        "distance_from_singapore": 12977.94,
+        "aircraft": "A359",
+        "co2_per_passenger": 1135.45
     },
     {
         "iata_code": "SFO",
@@ -206,7 +242,9 @@
         "airlines": "United; Singapore Airlines",
         "latitude": 37.619806,
         "longitude": -122.374821,
-        "distance_from_singapore": 13580.52
+        "distance_from_singapore": 13580.52,
+        "aircraft": "A359",
+        "co2_per_passenger": 1187.19
     },
     {
         "iata_code": "BCN",
@@ -217,7 +255,9 @@
         "airlines": "",
         "latitude": 41.2971,
         "longitude": 2.07846,
-        "distance_from_singapore": 10898.11
+        "distance_from_singapore": 10898.11,
+        "aircraft": "A359",
+        "co2_per_passenger": 956.86
     },
     {
         "iata_code": "CDG",
@@ -228,7 +268,9 @@
         "airlines": "Singapore Airlines; Air France; Qantas",
         "latitude": 49.00896,
         "longitude": 2.554117,
-        "distance_from_singapore": 10722.99
+        "distance_from_singapore": 10722.99,
+        "aircraft": "A359",
+        "co2_per_passenger": 941.82
     },
     {
         "iata_code": "ATH",
@@ -239,7 +281,9 @@
         "airlines": "",
         "latitude": 37.936401,
         "longitude": 23.9445,
-        "distance_from_singapore": 9042.36
+        "distance_from_singapore": 9042.36,
+        "aircraft": "A359",
+        "co2_per_passenger": 797.51
     },
     {
         "iata_code": "MXP",
@@ -250,7 +294,9 @@
         "airlines": "",
         "latitude": 45.6306,
         "longitude": 8.72811,
-        "distance_from_singapore": 10307.78
+        "distance_from_singapore": 10307.78,
+        "aircraft": "A359",
+        "co2_per_passenger": 906.17
     },
     {
         "iata_code": "FCO",
@@ -261,7 +307,9 @@
         "airlines": "",
         "latitude": 41.804532,
         "longitude": 12.251998,
-        "distance_from_singapore": 10050.54
+        "distance_from_singapore": 10050.54,
+        "aircraft": "A359",
+        "co2_per_passenger": 884.08
     },
     {
         "iata_code": "ZRH",
@@ -272,7 +320,9 @@
         "airlines": "",
         "latitude": 47.458056,
         "longitude": 8.548056,
-        "distance_from_singapore": 10304.4
+        "distance_from_singapore": 10304.4,
+        "aircraft": "A359",
+        "co2_per_passenger": 905.88
     },
     {
         "iata_code": "IST",
@@ -283,7 +333,9 @@
         "airlines": "Turkish Airlines; Singapore Airlines",
         "latitude": 41.274874,
         "longitude": 28.732136,
-        "distance_from_singapore": 8679.91
+        "distance_from_singapore": 8679.91,
+        "aircraft": "B789",
+        "co2_per_passenger": 830.98
     },
     {
         "iata_code": "NAN",
@@ -294,7 +346,9 @@
         "airlines": "",
         "latitude": -17.761822,
         "longitude": 177.437843,
-        "distance_from_singapore": 8305.48
+        "distance_from_singapore": 8305.48,
+        "aircraft": "B789",
+        "co2_per_passenger": 796.22
     },
     {
         "iata_code": "NOU",
@@ -305,7 +359,9 @@
         "airlines": "",
         "latitude": -22.014601,
         "longitude": 166.212997,
-        "distance_from_singapore": 7224.8
+        "distance_from_singapore": 7224.8,
+        "aircraft": "B789",
+        "co2_per_passenger": 695.91
     },
     {
         "iata_code": "AKL",
@@ -316,7 +372,9 @@
         "airlines": "Air New Zealand; Singapore Airlines",
         "latitude": -37.01199,
         "longitude": 174.786331,
-        "distance_from_singapore": 8409.14
+        "distance_from_singapore": 8409.14,
+        "aircraft": "B789",
+        "co2_per_passenger": 805.84
     },
     {
         "iata_code": "CHC",
@@ -327,7 +385,9 @@
         "airlines": "",
         "latitude": -43.489029,
         "longitude": 172.532065,
-        "distance_from_singapore": 8404.57
+        "distance_from_singapore": 8404.57,
+        "aircraft": "B789",
+        "co2_per_passenger": 805.42
     },
     {
         "iata_code": "BAH",
@@ -338,7 +398,9 @@
         "airlines": "",
         "latitude": 26.267295,
         "longitude": 50.63764,
-        "distance_from_singapore": 6330.63
+        "distance_from_singapore": 6330.63,
+        "aircraft": "B789",
+        "co2_per_passenger": 612.91
     },
     {
         "iata_code": "JED",
@@ -349,7 +411,9 @@
         "airlines": "",
         "latitude": 21.680241,
         "longitude": 39.157436,
-        "distance_from_singapore": 7359.02
+        "distance_from_singapore": 7359.02,
+        "aircraft": "B789",
+        "co2_per_passenger": 708.37
     },
     {
         "iata_code": "AUH",
@@ -360,7 +424,9 @@
         "airlines": "",
         "latitude": 24.440966,
         "longitude": 54.649237,
-        "distance_from_singapore": 5885.17
+        "distance_from_singapore": 5885.17,
+        "aircraft": "B789",
+        "co2_per_passenger": 571.56
     },
     {
         "iata_code": "DXB",
@@ -371,7 +437,9 @@
         "airlines": "Emirates",
         "latitude": 25.24979,
         "longitude": 55.370992,
-        "distance_from_singapore": 5844.87
+        "distance_from_singapore": 5844.87,
+        "aircraft": "B789",
+        "co2_per_passenger": 567.82
     },
     {
         "iata_code": "DOH",
@@ -382,7 +450,9 @@
         "airlines": "Qatar Airways",
         "latitude": 25.273056,
         "longitude": 51.608056,
-        "distance_from_singapore": 6205.62
+        "distance_from_singapore": 6205.62,
+        "aircraft": "B789",
+        "co2_per_passenger": 601.3
     },
     {
         "iata_code": "KHH",
@@ -393,7 +463,9 @@
         "airlines": "",
         "latitude": 22.577101,
         "longitude": 120.349998,
-        "distance_from_singapore": 2947.52
+        "distance_from_singapore": 2947.52,
+        "aircraft": "A320",
+        "co2_per_passenger": 198.48
     },
     {
         "iata_code": "TPE",
@@ -404,7 +476,9 @@
         "airlines": "Scoot; EVA Air; Singapore Airlines; +more",
         "latitude": 25.0777,
         "longitude": 121.233002,
-        "distance_from_singapore": 3221.22
+        "distance_from_singapore": 3221.22,
+        "aircraft": "B789",
+        "co2_per_passenger": 324.28
     },
     {
         "iata_code": "NRT",
@@ -415,7 +489,9 @@
         "airlines": "Singapore Airlines; JAL; Scoot; +more",
         "latitude": 35.76858,
         "longitude": 140.388714,
-        "distance_from_singapore": 5357.01
+        "distance_from_singapore": 5357.01,
+        "aircraft": "B789",
+        "co2_per_passenger": 522.53
     },
     {
         "iata_code": "KIX",
@@ -426,7 +502,9 @@
         "airlines": "Singapore Airlines; Peach; Scoot",
         "latitude": 34.427299,
         "longitude": 135.244003,
-        "distance_from_singapore": 4901.08
+        "distance_from_singapore": 4901.08,
+        "aircraft": "B789",
+        "co2_per_passenger": 480.21
     },
     {
         "iata_code": "CTS",
@@ -437,7 +515,9 @@
         "airlines": "",
         "latitude": 42.774753,
         "longitude": 141.690414,
-        "distance_from_singapore": 5933.28
+        "distance_from_singapore": 5933.28,
+        "aircraft": "B789",
+        "co2_per_passenger": 576.02
     },
     {
         "iata_code": "FUK",
@@ -448,7 +528,9 @@
         "airlines": "",
         "latitude": 33.585899353027344,
         "longitude": 130.4510040283203,
-        "distance_from_singapore": 4519.57
+        "distance_from_singapore": 4519.57,
+        "aircraft": "B789",
+        "co2_per_passenger": 444.8
     },
     {
         "iata_code": "NGO",
@@ -459,7 +541,9 @@
         "airlines": "",
         "latitude": 34.858398,
         "longitude": 136.804993,
-        "distance_from_singapore": 5040.22
+        "distance_from_singapore": 5040.22,
+        "aircraft": "B789",
+        "co2_per_passenger": 493.13
     },
     {
         "iata_code": "HIJ",
@@ -470,7 +554,9 @@
         "airlines": "",
         "latitude": 34.4361,
         "longitude": 132.919006,
-        "distance_from_singapore": 4746.14
+        "distance_from_singapore": 4746.14,
+        "aircraft": "B789",
+        "co2_per_passenger": 465.83
     },
     {
         "iata_code": "HND",
@@ -481,7 +567,9 @@
         "airlines": "Singapore Airlines; ANA; JAL; +more",
         "latitude": 35.549678,
         "longitude": 139.786958,
-        "distance_from_singapore": 5299.06
+        "distance_from_singapore": 5299.06,
+        "aircraft": "B789",
+        "co2_per_passenger": 517.15
     },
     {
         "iata_code": "CJU",
@@ -492,7 +580,9 @@
         "airlines": "",
         "latitude": 33.512058,
         "longitude": 126.492548,
-        "distance_from_singapore": 4274.69
+        "distance_from_singapore": 4274.69,
+        "aircraft": "B789",
+        "co2_per_passenger": 422.07
     },
     {
         "iata_code": "PUS",
@@ -503,7 +593,9 @@
         "airlines": "",
         "latitude": 35.179501,
         "longitude": 128.938004,
-        "distance_from_singapore": 4560.03
+        "distance_from_singapore": 4560.03,
+        "aircraft": "B789",
+        "co2_per_passenger": 448.56
     },
     {
         "iata_code": "ICN",
@@ -514,7 +606,9 @@
         "airlines": "Korean Air; Singapore Airlines; Jeju Air; +more",
         "latitude": 37.469101,
         "longitude": 126.450996,
-        "distance_from_singapore": 4626.1
+        "distance_from_singapore": 4626.1,
+        "aircraft": "B789",
+        "co2_per_passenger": 454.69
     },
     {
         "iata_code": "OKA",
@@ -525,7 +619,9 @@
         "airlines": "",
         "latitude": 26.192437,
         "longitude": 127.639804,
-        "distance_from_singapore": 3743.97
+        "distance_from_singapore": 3743.97,
+        "aircraft": "B789",
+        "co2_per_passenger": 372.81
     },
     {
         "iata_code": "CRK",
@@ -536,7 +632,9 @@
         "airlines": "",
         "latitude": 15.186,
         "longitude": 120.559998,
-        "distance_from_singapore": 2380.81
+        "distance_from_singapore": 2380.81,
+        "aircraft": "A320",
+        "co2_per_passenger": 163.36
     },
     {
         "iata_code": "MNL",
@@ -547,7 +645,9 @@
         "airlines": "Singapore Airlines; Philippine Airlines; Cebu Pacific; +more",
         "latitude": 14.5086,
         "longitude": 121.019997,
-        "distance_from_singapore": 2374.08
+        "distance_from_singapore": 2374.08,
+        "aircraft": "A320",
+        "co2_per_passenger": 162.94
     },
     {
         "iata_code": "DVO",
@@ -558,7 +658,9 @@
         "airlines": "",
         "latitude": 7.12552,
         "longitude": 125.646004,
-        "distance_from_singapore": 2484.17
+        "distance_from_singapore": 2484.17,
+        "aircraft": "A320",
+        "co2_per_passenger": 169.76
     },
     {
         "iata_code": "ILO",
@@ -569,7 +671,9 @@
         "airlines": "",
         "latitude": 10.833017,
         "longitude": 122.493358,
-        "distance_from_singapore": 2298.48
+        "distance_from_singapore": 2298.48,
+        "aircraft": "A320",
+        "co2_per_passenger": 158.25
     },
     {
         "iata_code": "CEB",
@@ -580,7 +684,9 @@
         "airlines": "Scoot; Singapore Airlines; Cebu Pacific",
         "latitude": 10.309261,
         "longitude": 123.97974,
-        "distance_from_singapore": 2422.25
+        "distance_from_singapore": 2422.25,
+        "aircraft": "A320",
+        "co2_per_passenger": 165.93
     },
     {
         "iata_code": "AMD",
@@ -591,7 +697,9 @@
         "airlines": "",
         "latitude": 23.0772,
         "longitude": 72.634697,
-        "distance_from_singapore": 4155.49
+        "distance_from_singapore": 4155.49,
+        "aircraft": "B789",
+        "co2_per_passenger": 411.01
     },
     {
         "iata_code": "BOM",
@@ -602,7 +710,9 @@
         "airlines": "IndiGo; Singapore Airlines; Air India",
         "latitude": 19.088699,
         "longitude": 72.867897,
-        "distance_from_singapore": 3920.74
+        "distance_from_singapore": 3920.74,
+        "aircraft": "B789",
+        "co2_per_passenger": 389.21
     },
     {
         "iata_code": "PNQ",
@@ -613,7 +723,9 @@
         "airlines": "",
         "latitude": 18.5821,
         "longitude": 73.919701,
-        "distance_from_singapore": 3796.54
+        "distance_from_singapore": 3796.54,
+        "aircraft": "B789",
+        "co2_per_passenger": 377.69
     },
     {
         "iata_code": "CMB",
@@ -624,7 +736,9 @@
         "airlines": "Singapore Airlines; SriLankan Airlines",
         "latitude": 7.180759906768799,
         "longitude": 79.88410186767578,
-        "distance_from_singapore": 2749.05
+        "distance_from_singapore": 2749.05,
+        "aircraft": "A320",
+        "co2_per_passenger": 186.18
     },
     {
         "iata_code": "SAI",
@@ -635,7 +749,9 @@
         "airlines": "",
         "latitude": 13.36974,
         "longitude": 104.223831,
-        "distance_from_singapore": 1335.18
+        "distance_from_singapore": 1335.18,
+        "aircraft": "A320",
+        "co2_per_passenger": 98.55
     },
     {
         "iata_code": "BBI",
@@ -646,7 +762,9 @@
         "airlines": "",
         "latitude": 20.251021,
         "longitude": 85.814747,
-        "distance_from_singapore": 2882.87
+        "distance_from_singapore": 2882.87,
+        "aircraft": "A320",
+        "co2_per_passenger": 194.47
     },
     {
         "iata_code": "CCU",
@@ -657,7 +775,9 @@
         "airlines": "",
         "latitude": 22.654012,
         "longitude": 88.44765,
-        "distance_from_singapore": 2902.38
+        "distance_from_singapore": 2902.38,
+        "aircraft": "A320",
+        "co2_per_passenger": 195.68
     },
     {
         "iata_code": "GAU",
@@ -668,7 +788,9 @@
         "airlines": "",
         "latitude": 26.106654,
         "longitude": 91.585226,
-        "distance_from_singapore": 3054.74
+        "distance_from_singapore": 3054.74,
+        "aircraft": "B789",
+        "co2_per_passenger": 308.83
     },
     {
         "iata_code": "DAC",
@@ -679,7 +801,9 @@
         "airlines": "US-Bangla Airlines; Biman Bangladesh; Singapore Airlines",
         "latitude": 23.843347,
         "longitude": 90.397783,
-        "distance_from_singapore": 2896.72
+        "distance_from_singapore": 2896.72,
+        "aircraft": "A320",
+        "co2_per_passenger": 195.33
     },
     {
         "iata_code": "HKG",
@@ -690,7 +814,9 @@
         "airlines": "Cathay Pacific; Singapore Airlines; Scoot",
         "latitude": 22.31184,
         "longitude": 113.914862,
-        "distance_from_singapore": 2564.53
+        "distance_from_singapore": 2564.53,
+        "aircraft": "A320",
+        "co2_per_passenger": 174.74
     },
     {
         "iata_code": "ATQ",
@@ -701,7 +827,9 @@
         "airlines": "",
         "latitude": 31.7096,
         "longitude": 74.797302,
-        "distance_from_singapore": 4556.54
+        "distance_from_singapore": 4556.54,
+        "aircraft": "B789",
+        "co2_per_passenger": 448.23
     },
     {
         "iata_code": "DEL",
@@ -712,7 +840,9 @@
         "airlines": "Singapore Airlines; Air India; IndiGo",
         "latitude": 28.55563,
         "longitude": 77.09519,
-        "distance_from_singapore": 4157.81
+        "distance_from_singapore": 4157.81,
+        "aircraft": "B789",
+        "co2_per_passenger": 411.22
     },
     {
         "iata_code": "VTE",
@@ -723,7 +853,9 @@
         "airlines": "",
         "latitude": 17.985052,
         "longitude": 102.566692,
-        "distance_from_singapore": 1854.67
+        "distance_from_singapore": 1854.67,
+        "aircraft": "A320",
+        "co2_per_passenger": 130.75
     },
     {
         "iata_code": "MFM",
@@ -734,7 +866,9 @@
         "airlines": "",
         "latitude": 22.149599,
         "longitude": 113.592003,
-        "distance_from_singapore": 2533.83
+        "distance_from_singapore": 2533.83,
+        "aircraft": "A320",
+        "co2_per_passenger": 172.84
     },
     {
         "iata_code": "KTM",
@@ -745,7 +879,9 @@
         "airlines": "",
         "latitude": 27.6966,
         "longitude": 85.3591,
-        "distance_from_singapore": 3536.59
+        "distance_from_singapore": 3536.59,
+        "aircraft": "B789",
+        "co2_per_passenger": 353.56
     },
     {
         "iata_code": "BLR",
@@ -756,7 +892,9 @@
         "airlines": "IndiGo; Singapore Airlines",
         "latitude": 13.1979,
         "longitude": 77.706299,
-        "distance_from_singapore": 3178.51
+        "distance_from_singapore": 3178.51,
+        "aircraft": "B789",
+        "co2_per_passenger": 320.32
     },
     {
         "iata_code": "CJB",
@@ -767,7 +905,9 @@
         "airlines": "",
         "latitude": 11.03,
         "longitude": 77.043404,
-        "distance_from_singapore": 3163.16
+        "distance_from_singapore": 3163.16,
+        "aircraft": "B789",
+        "co2_per_passenger": 318.89
     },
     {
         "iata_code": "COK",
@@ -778,7 +918,9 @@
         "airlines": "",
         "latitude": 10.151047,
         "longitude": 76.400838,
-        "distance_from_singapore": 3201.78
+        "distance_from_singapore": 3201.78,
+        "aircraft": "B789",
+        "co2_per_passenger": 322.48
     },
     {
         "iata_code": "HYD",
@@ -789,7 +931,9 @@
         "airlines": "Singapore Airlines; IndiGo",
         "latitude": 17.231318,
         "longitude": 78.429855,
-        "distance_from_singapore": 3304.94
+        "distance_from_singapore": 3304.94,
+        "aircraft": "B789",
+        "co2_per_passenger": 332.05
     },
     {
         "iata_code": "IXM",
@@ -800,7 +944,9 @@
         "airlines": "",
         "latitude": 9.83450984955,
         "longitude": 78.09339904790001,
-        "distance_from_singapore": 3014.0
+        "distance_from_singapore": 3014.0,
+        "aircraft": "B789",
+        "co2_per_passenger": 305.05
     },
     {
         "iata_code": "IXE",
@@ -811,7 +957,9 @@
         "airlines": "",
         "latitude": 12.95471,
         "longitude": 74.886812,
-        "distance_from_singapore": 3454.17
+        "distance_from_singapore": 3454.17,
+        "aircraft": "B789",
+        "co2_per_passenger": 345.91
     },
     {
         "iata_code": "MAA",
@@ -822,7 +970,9 @@
         "airlines": "IndiGo; Singapore Airlines; Scoot",
         "latitude": 12.990005,
         "longitude": 80.169296,
-        "distance_from_singapore": 2924.34
+        "distance_from_singapore": 2924.34,
+        "aircraft": "A320",
+        "co2_per_passenger": 197.04
     },
     {
         "iata_code": "TRZ",
@@ -833,7 +983,9 @@
         "airlines": "Air India Express; Scoot; IndiGo",
         "latitude": 10.762915,
         "longitude": 78.717741,
-        "distance_from_singapore": 2980.32
+        "distance_from_singapore": 2980.32,
+        "aircraft": "A320",
+        "co2_per_passenger": 200.51
     },
     {
         "iata_code": "TRV",
@@ -844,7 +996,9 @@
         "airlines": "",
         "latitude": 8.481889,
         "longitude": 76.920029,
-        "distance_from_singapore": 3099.65
+        "distance_from_singapore": 3099.65,
+        "aircraft": "B789",
+        "co2_per_passenger": 313.0
     },
     {
         "iata_code": "VTZ",
@@ -855,7 +1009,9 @@
         "airlines": "",
         "latitude": 17.971512,
         "longitude": 83.503617,
-        "distance_from_singapore": 2900.61
+        "distance_from_singapore": 2900.61,
+        "aircraft": "A320",
+        "co2_per_passenger": 195.57
     },
     {
         "iata_code": "MLE",
@@ -866,7 +1022,9 @@
         "airlines": "",
         "latitude": 4.19183,
         "longitude": 73.529099,
-        "distance_from_singapore": 3397.42
+        "distance_from_singapore": 3397.42,
+        "aircraft": "B789",
+        "co2_per_passenger": 340.64
     },
     {
         "iata_code": "DMK",
@@ -877,7 +1035,9 @@
         "airlines": "Thai Lion Air; Thai AirAsia",
         "latitude": 13.9126,
         "longitude": 100.607002,
-        "distance_from_singapore": 1444.09
+        "distance_from_singapore": 1444.09,
+        "aircraft": "A320",
+        "co2_per_passenger": 105.3
     },
     {
         "iata_code": "BKK",
@@ -888,7 +1048,9 @@
         "airlines": "Singapore Airlines; Scoot; Thai Airways",
         "latitude": 13.6811,
         "longitude": 100.747002,
-        "distance_from_singapore": 1415.3
+        "distance_from_singapore": 1415.3,
+        "aircraft": "A320",
+        "co2_per_passenger": 103.52
     },
     {
         "iata_code": "CNX",
@@ -899,7 +1061,9 @@
         "airlines": "",
         "latitude": 18.766799926799997,
         "longitude": 98.962600708,
-        "distance_from_singapore": 2011.23
+        "distance_from_singapore": 2011.23,
+        "aircraft": "A320",
+        "co2_per_passenger": 140.45
     },
     {
         "iata_code": "KBV",
@@ -910,7 +1074,9 @@
         "airlines": "",
         "latitude": 8.095591,
         "longitude": 98.988955,
-        "distance_from_singapore": 931.22
+        "distance_from_singapore": 931.22,
+        "aircraft": "A320",
+        "co2_per_passenger": 73.51
     },
     {
         "iata_code": "USM",
@@ -921,7 +1087,9 @@
         "airlines": "Scoot; Bangkok Airways",
         "latitude": 9.54779,
         "longitude": 100.061996,
-        "distance_from_singapore": 1008.4
+        "distance_from_singapore": 1008.4,
+        "aircraft": "A320",
+        "co2_per_passenger": 78.3
     },
     {
         "iata_code": "HKT",
@@ -932,7 +1100,9 @@
         "airlines": "Singapore Airlines; Scoot",
         "latitude": 8.113257,
         "longitude": 98.3174,
-        "distance_from_singapore": 978.8
+        "distance_from_singapore": 978.8,
+        "aircraft": "A320",
+        "co2_per_passenger": 76.46
     },
     {
         "iata_code": "HDY",
@@ -943,7 +1113,9 @@
         "airlines": "",
         "latitude": 6.93321,
         "longitude": 100.392998,
-        "distance_from_singapore": 736.6
+        "distance_from_singapore": 736.6,
+        "aircraft": "A320",
+        "co2_per_passenger": 61.45
     },
     {
         "iata_code": "DAD",
@@ -954,7 +1126,9 @@
         "airlines": "Singapore Airlines; VietJet Air; Scoot",
         "latitude": 16.0439,
         "longitude": 108.198997,
-        "distance_from_singapore": 1696.16
+        "distance_from_singapore": 1696.16,
+        "aircraft": "A320",
+        "co2_per_passenger": 120.92
     },
     {
         "iata_code": "HAN",
@@ -965,7 +1139,9 @@
         "airlines": "Singapore Airlines; Vietnam Airlines; VietJet Air; +more",
         "latitude": 21.221201,
         "longitude": 105.806999,
-        "distance_from_singapore": 2216.73
+        "distance_from_singapore": 2216.73,
+        "aircraft": "A320",
+        "co2_per_passenger": 153.19
     },
     {
         "iata_code": "PQC",
@@ -976,7 +1152,9 @@
         "airlines": "Scoot; VietJet Air",
         "latitude": 10.169783,
         "longitude": 103.99353,
-        "distance_from_singapore": 979.11
+        "distance_from_singapore": 979.11,
+        "aircraft": "A320",
+        "co2_per_passenger": 76.48
     },
     {
         "iata_code": "SGN",
@@ -987,7 +1165,9 @@
         "airlines": "Scoot; Singapore Airlines; VietJet Air; +more",
         "latitude": 10.8188,
         "longitude": 106.652,
-        "distance_from_singapore": 1091.57
+        "distance_from_singapore": 1091.57,
+        "aircraft": "A320",
+        "co2_per_passenger": 83.45
     },
     {
         "iata_code": "RGN",
@@ -998,7 +1178,9 @@
         "airlines": "Myanmar Airways International; Singapore Airlines; Myanmar National Airlines",
         "latitude": 16.907300949099998,
         "longitude": 96.1332015991,
-        "distance_from_singapore": 1930.37
+        "distance_from_singapore": 1930.37,
+        "aircraft": "A320",
+        "co2_per_passenger": 135.44
     },
     {
         "iata_code": "UPG",
@@ -1009,7 +1191,9 @@
         "airlines": "",
         "latitude": -5.075539,
         "longitude": 119.553702,
-        "distance_from_singapore": 1871.06
+        "distance_from_singapore": 1871.06,
+        "aircraft": "A320",
+        "co2_per_passenger": 131.76
     },
     {
         "iata_code": "DPS",
@@ -1020,7 +1204,9 @@
         "airlines": "Singapore Airlines; Scoot; TransNusa; +more",
         "latitude": -8.748409,
         "longitude": 115.167123,
-        "distance_from_singapore": 1672.8
+        "distance_from_singapore": 1672.8,
+        "aircraft": "A320",
+        "co2_per_passenger": 119.48
     },
     {
         "iata_code": "LOP",
@@ -1031,7 +1217,9 @@
         "airlines": "",
         "latitude": -8.759962,
         "longitude": 116.278169,
-        "distance_from_singapore": 1766.7
+        "distance_from_singapore": 1766.7,
+        "aircraft": "A320",
+        "co2_per_passenger": 125.3
     },
     {
         "iata_code": "YIA",
@@ -1042,7 +1230,9 @@
         "airlines": "",
         "latitude": -7.905338,
         "longitude": 110.057264,
-        "distance_from_singapore": 1230.81
+        "distance_from_singapore": 1230.81,
+        "aircraft": "A320",
+        "co2_per_passenger": 92.08
     },
     {
         "iata_code": "BPN",
@@ -1053,7 +1243,9 @@
         "airlines": "",
         "latitude": -1.268342,
         "longitude": 116.89452,
-        "distance_from_singapore": 1464.19
+        "distance_from_singapore": 1464.19,
+        "aircraft": "A320",
+        "co2_per_passenger": 106.55
     },
     {
         "iata_code": "MDC",
@@ -1064,7 +1256,9 @@
         "airlines": "",
         "latitude": 1.548591,
         "longitude": 124.92625,
-        "distance_from_singapore": 2327.17
+        "distance_from_singapore": 2327.17,
+        "aircraft": "A320",
+        "co2_per_passenger": 160.03
     },
     {
         "iata_code": "SUB",
@@ -1075,7 +1269,9 @@
         "airlines": "Singapore Airlines; Scoot",
         "latitude": -7.37983,
         "longitude": 112.787003,
-        "distance_from_singapore": 1377.46
+        "distance_from_singapore": 1377.46,
+        "aircraft": "A320",
+        "co2_per_passenger": 101.17
     },
     {
         "iata_code": "KCH",
@@ -1086,7 +1282,9 @@
         "airlines": "AirAsia; Scoot; MASwings",
         "latitude": 1.487364,
         "longitude": 110.352859,
-        "distance_from_singapore": 707.26
+        "distance_from_singapore": 707.26,
+        "aircraft": "A320",
+        "co2_per_passenger": 59.63
     },
     {
         "iata_code": "MYY",
@@ -1097,7 +1295,9 @@
         "airlines": "",
         "latitude": 4.32201,
         "longitude": 113.987,
-        "distance_from_singapore": 1157.65
+        "distance_from_singapore": 1157.65,
+        "aircraft": "A320",
+        "co2_per_passenger": 87.55
     },
     {
         "iata_code": "SBW",
@@ -1108,7 +1308,9 @@
         "airlines": "",
         "latitude": 2.2616,
         "longitude": 111.985001,
-        "distance_from_singapore": 893.97
+        "distance_from_singapore": 893.97,
+        "aircraft": "A320",
+        "co2_per_passenger": 71.21
     },
     {
         "iata_code": "BKI",
@@ -1119,7 +1321,9 @@
         "airlines": "",
         "latitude": 5.932743,
         "longitude": 116.049324,
-        "distance_from_singapore": 1430.89
+        "distance_from_singapore": 1430.89,
+        "aircraft": "A320",
+        "co2_per_passenger": 104.48
     },
     {
         "iata_code": "TWU",
@@ -1130,7 +1334,9 @@
         "airlines": "",
         "latitude": 4.31338,
         "longitude": 118.12152,
-        "distance_from_singapore": 1602.97
+        "distance_from_singapore": 1602.97,
+        "aircraft": "A320",
+        "co2_per_passenger": 115.15
     },
     {
         "iata_code": "BWN",
@@ -1141,7 +1347,9 @@
         "airlines": "Royal Brunei Airlines; Singapore Airlines",
         "latitude": 4.9442,
         "longitude": 114.928001,
-        "distance_from_singapore": 1277.63
+        "distance_from_singapore": 1277.63,
+        "aircraft": "A320",
+        "co2_per_passenger": 94.98
     },
     {
         "iata_code": "PKU",
@@ -1152,7 +1360,9 @@
         "airlines": "",
         "latitude": 0.458647,
         "longitude": 101.444321,
-        "distance_from_singapore": 300.57
+        "distance_from_singapore": 300.57,
+        "aircraft": "A320",
+        "co2_per_passenger": 34.43
     },
     {
         "iata_code": "KJT",
@@ -1163,7 +1373,9 @@
         "airlines": "",
         "latitude": -6.647384,
         "longitude": 108.165561,
-        "distance_from_singapore": 1004.12
+        "distance_from_singapore": 1004.12,
+        "aircraft": "A320",
+        "co2_per_passenger": 78.03
     },
     {
         "iata_code": "CGK",
@@ -1174,7 +1386,9 @@
         "airlines": "Singapore Airlines; Garuda Indonesia; Scoot; +more",
         "latitude": -6.12557,
         "longitude": 106.655998,
-        "distance_from_singapore": 883.82
+        "distance_from_singapore": 883.82,
+        "aircraft": "A320",
+        "co2_per_passenger": 70.58
     },
     {
         "iata_code": "KNO",
@@ -1185,7 +1399,9 @@
         "airlines": "Singapore Airlines; Scoot; Batik Air",
         "latitude": 3.637847,
         "longitude": 98.870566,
-        "distance_from_singapore": 622.48
+        "distance_from_singapore": 622.48,
+        "aircraft": "A320",
+        "co2_per_passenger": 54.38
     },
     {
         "iata_code": "PDG",
@@ -1196,7 +1412,9 @@
         "airlines": "",
         "latitude": -0.785964,
         "longitude": 100.280384,
-        "distance_from_singapore": 476.9
+        "distance_from_singapore": 476.9,
+        "aircraft": "A320",
+        "co2_per_passenger": 45.36
     },
     {
         "iata_code": "KUA",
@@ -1207,7 +1425,9 @@
         "airlines": "",
         "latitude": 3.7753899097442627,
         "longitude": 103.20899963378906,
-        "distance_from_singapore": 281.83
+        "distance_from_singapore": 281.83,
+        "aircraft": "A320",
+        "co2_per_passenger": 33.27
     },
     {
         "iata_code": "IPH",
@@ -1218,7 +1438,9 @@
         "airlines": "Scoot",
         "latitude": 4.56733,
         "longitude": 101.091643,
-        "distance_from_singapore": 480.12
+        "distance_from_singapore": 480.12,
+        "aircraft": "A320",
+        "co2_per_passenger": 45.56
     },
     {
         "iata_code": "KUL",
@@ -1229,7 +1451,9 @@
         "airlines": "AirAsia; Malaysia Airlines; Singapore Airlines; +more",
         "latitude": 2.74558,
         "longitude": 101.709999,
-        "distance_from_singapore": 296.41
+        "distance_from_singapore": 296.41,
+        "aircraft": "A320",
+        "co2_per_passenger": 34.17
     },
     {
         "iata_code": "LGK",
@@ -1240,7 +1464,9 @@
         "airlines": "Scoot; AirAsia",
         "latitude": 6.32973,
         "longitude": 99.728699,
-        "distance_from_singapore": 726.88
+        "distance_from_singapore": 726.88,
+        "aircraft": "A320",
+        "co2_per_passenger": 60.85
     },
     {
         "iata_code": "MKZ",
@@ -1251,7 +1477,9 @@
         "airlines": "",
         "latitude": 2.265613,
         "longitude": 102.252778,
-        "distance_from_singapore": 217.68
+        "distance_from_singapore": 217.68,
+        "aircraft": "A320",
+        "co2_per_passenger": 29.29
     },
     {
         "iata_code": "PEN",
@@ -1262,7 +1490,9 @@
         "airlines": "Singapore Airlines; Scoot; AirAsia",
         "latitude": 5.296303,
         "longitude": 100.276185,
-        "distance_from_singapore": 600.98
+        "distance_from_singapore": 600.98,
+        "aircraft": "A320",
+        "co2_per_passenger": 53.05
     },
     {
         "iata_code": "SZB",
@@ -1273,7 +1503,9 @@
         "airlines": "",
         "latitude": 3.13058,
         "longitude": 101.549004,
-        "distance_from_singapore": 334.98
+        "distance_from_singapore": 334.98,
+        "aircraft": "A320",
+        "co2_per_passenger": 36.56
     },
     {
         "iata_code": "BNE",
@@ -1284,7 +1516,9 @@
         "airlines": "Singapore Airlines; Qantas",
         "latitude": -27.384199142456055,
         "longitude": 153.11700439453125,
-        "distance_from_singapore": 6143.83
+        "distance_from_singapore": 6143.83,
+        "aircraft": "B789",
+        "co2_per_passenger": 595.57
     },
     {
         "iata_code": "CNS",
@@ -1295,7 +1529,9 @@
         "airlines": "",
         "latitude": -16.878921,
         "longitude": 145.74948,
-        "distance_from_singapore": 5007.32
+        "distance_from_singapore": 5007.32,
+        "aircraft": "B789",
+        "co2_per_passenger": 490.07
     },
     {
         "iata_code": "BME",
@@ -1306,7 +1542,9 @@
         "airlines": "",
         "latitude": -17.949194,
         "longitude": 122.2283,
-        "distance_from_singapore": 2932.1
+        "distance_from_singapore": 2932.1,
+        "aircraft": "A320",
+        "co2_per_passenger": 197.52
     },
     {
         "iata_code": "MEL",
@@ -1317,7 +1555,9 @@
         "airlines": "Singapore Airlines; Qantas; Scoot; +more",
         "latitude": -37.670732,
         "longitude": 144.837898,
-        "distance_from_singapore": 6033.9
+        "distance_from_singapore": 6033.9,
+        "aircraft": "B789",
+        "co2_per_passenger": 585.36
     },
     {
         "iata_code": "ADL",
@@ -1328,7 +1568,9 @@
         "airlines": "",
         "latitude": -34.947512,
         "longitude": 138.533393,
-        "distance_from_singapore": 5403.78
+        "distance_from_singapore": 5403.78,
+        "aircraft": "B789",
+        "co2_per_passenger": 526.87
     },
     {
         "iata_code": "DRW",
@@ -1339,7 +1581,9 @@
         "airlines": "",
         "latitude": -12.41497,
         "longitude": 130.88185,
-        "distance_from_singapore": 3340.6
+        "distance_from_singapore": 3340.6,
+        "aircraft": "B789",
+        "co2_per_passenger": 335.36
     },
     {
         "iata_code": "PER",
@@ -1350,7 +1594,9 @@
         "airlines": "Singapore Airlines; Scoot; Qantas",
         "latitude": -31.94029998779297,
         "longitude": 115.96700286865234,
-        "distance_from_singapore": 3912.36
+        "distance_from_singapore": 3912.36,
+        "aircraft": "B789",
+        "co2_per_passenger": 388.44
     },
     {
         "iata_code": "SYD",
@@ -1361,7 +1607,9 @@
         "airlines": "Singapore Airlines; Qantas; Scoot; +more",
         "latitude": -33.946098,
         "longitude": 151.177002,
-        "distance_from_singapore": 6294.73
+        "distance_from_singapore": 6294.73,
+        "aircraft": "B789",
+        "co2_per_passenger": 609.58
     },
     {
         "iata_code": "PEK",
@@ -1372,7 +1620,9 @@
         "airlines": "Air China; Singapore Airlines",
         "latitude": 40.077349,
         "longitude": 116.596702,
-        "distance_from_singapore": 4489.2
+        "distance_from_singapore": 4489.2,
+        "aircraft": "B789",
+        "co2_per_passenger": 441.98
     },
     {
         "iata_code": "PKX",
@@ -1383,7 +1633,9 @@
         "airlines": "",
         "latitude": 39.501289,
         "longitude": 116.413967,
-        "distance_from_singapore": 4423.62
+        "distance_from_singapore": 4423.62,
+        "aircraft": "B789",
+        "co2_per_passenger": 435.89
     },
     {
         "iata_code": "TSN",
@@ -1394,7 +1646,9 @@
         "airlines": "",
         "latitude": 39.124401092499994,
         "longitude": 117.346000671,
-        "distance_from_singapore": 4412.33
+        "distance_from_singapore": 4412.33,
+        "aircraft": "B789",
+        "co2_per_passenger": 434.85
     },
     {
         "iata_code": "CAN",
@@ -1405,7 +1659,9 @@
         "airlines": "China Southern; Singapore Airlines; Scoot; +more",
         "latitude": 23.392401,
         "longitude": 113.299004,
-        "distance_from_singapore": 2647.05
+        "distance_from_singapore": 2647.05,
+        "aircraft": "A320",
+        "co2_per_passenger": 179.86
     },
     {
         "iata_code": "CSX",
@@ -1416,7 +1672,9 @@
         "airlines": "",
         "latitude": 28.189199,
         "longitude": 113.220001,
-        "distance_from_singapore": 3139.98
+        "distance_from_singapore": 3139.98,
+        "aircraft": "B789",
+        "co2_per_passenger": 316.74
     },
     {
         "iata_code": "NNG",
@@ -1427,7 +1685,9 @@
         "airlines": "",
         "latitude": 22.598071,
         "longitude": 108.181922,
-        "distance_from_singapore": 2404.11
+        "distance_from_singapore": 2404.11,
+        "aircraft": "A320",
+        "co2_per_passenger": 164.8
     },
     {
         "iata_code": "SWA",
@@ -1438,7 +1698,9 @@
         "airlines": "",
         "latitude": 23.552,
         "longitude": 116.5033,
-        "distance_from_singapore": 2811.66
+        "distance_from_singapore": 2811.66,
+        "aircraft": "A320",
+        "co2_per_passenger": 190.06
     },
     {
         "iata_code": "SZX",
@@ -1449,7 +1711,9 @@
         "airlines": "Shenzhen Airlines; China Southern; Singapore Airlines",
         "latitude": 22.639474,
         "longitude": 113.803262,
-        "distance_from_singapore": 2592.35
+        "distance_from_singapore": 2592.35,
+        "aircraft": "A320",
+        "co2_per_passenger": 176.47
     },
     {
         "iata_code": "CGO",
@@ -1460,7 +1724,9 @@
         "airlines": "",
         "latitude": 34.526497,
         "longitude": 113.849165,
-        "distance_from_singapore": 3826.76
+        "distance_from_singapore": 3826.76,
+        "aircraft": "B789",
+        "co2_per_passenger": 380.49
     },
     {
         "iata_code": "WUH",
@@ -1471,7 +1737,9 @@
         "airlines": "",
         "latitude": 30.774798,
         "longitude": 114.213723,
-        "distance_from_singapore": 3443.04
+        "distance_from_singapore": 3443.04,
+        "aircraft": "B789",
+        "co2_per_passenger": 344.87
     },
     {
         "iata_code": "HAK",
@@ -1482,7 +1750,9 @@
         "airlines": "Hainan Airlines; Scoot",
         "latitude": 19.9349,
         "longitude": 110.459,
-        "distance_from_singapore": 2181.43
+        "distance_from_singapore": 2181.43,
+        "aircraft": "A320",
+        "co2_per_passenger": 151.0
     },
     {
         "iata_code": "SYX",
@@ -1493,7 +1763,9 @@
         "airlines": "",
         "latitude": 18.3029,
         "longitude": 109.412003,
-        "distance_from_singapore": 1974.17
+        "distance_from_singapore": 1974.17,
+        "aircraft": "A320",
+        "co2_per_passenger": 138.15
     },
     {
         "iata_code": "XIY",
@@ -1504,7 +1776,9 @@
         "airlines": "",
         "latitude": 34.442207,
         "longitude": 108.762385,
-        "distance_from_singapore": 3711.3
+        "distance_from_singapore": 3711.3,
+        "aircraft": "B789",
+        "co2_per_passenger": 369.77
     },
     {
         "iata_code": "KMG",
@@ -1515,7 +1789,9 @@
         "airlines": "China Eastern; Scoot",
         "latitude": 25.110313,
         "longitude": 102.936743,
-        "distance_from_singapore": 2642.85
+        "distance_from_singapore": 2642.85,
+        "aircraft": "A320",
+        "co2_per_passenger": 179.6
     },
     {
         "iata_code": "XMN",
@@ -1526,7 +1802,9 @@
         "airlines": "Xiamen Airlines; Singapore Airlines",
         "latitude": 24.543889,
         "longitude": 118.127454,
-        "distance_from_singapore": 2991.97
+        "distance_from_singapore": 2991.97,
+        "aircraft": "A320",
+        "co2_per_passenger": 201.23
     },
     {
         "iata_code": "KHN",
@@ -1537,7 +1815,9 @@
         "airlines": "",
         "latitude": 28.864815,
         "longitude": 115.90271,
-        "distance_from_singapore": 3308.59
+        "distance_from_singapore": 3308.59,
+        "aircraft": "B789",
+        "co2_per_passenger": 332.39
     },
     {
         "iata_code": "FOC",
@@ -1548,7 +1828,9 @@
         "airlines": "",
         "latitude": 25.929254,
         "longitude": 119.672524,
-        "distance_from_singapore": 3206.09
+        "distance_from_singapore": 3206.09,
+        "aircraft": "B789",
+        "co2_per_passenger": 322.88
     },
     {
         "iata_code": "HGH",
@@ -1559,7 +1841,9 @@
         "airlines": "Scoot; Singapore Airlines; Xiamen Airlines; +more",
         "latitude": 30.23609,
         "longitude": 120.428865,
-        "distance_from_singapore": 3649.12
+        "distance_from_singapore": 3649.12,
+        "aircraft": "B789",
+        "co2_per_passenger": 364.0
     },
     {
         "iata_code": "TNA",
@@ -1570,7 +1854,9 @@
         "airlines": "",
         "latitude": 36.857201,
         "longitude": 117.216003,
-        "distance_from_singapore": 4173.76
+        "distance_from_singapore": 4173.76,
+        "aircraft": "B789",
+        "co2_per_passenger": 412.7
     },
     {
         "iata_code": "NKG",
@@ -1581,7 +1867,9 @@
         "airlines": "Scoot; China Eastern",
         "latitude": 31.735032,
         "longitude": 118.865949,
-        "distance_from_singapore": 3720.46
+        "distance_from_singapore": 3720.46,
+        "aircraft": "B789",
+        "co2_per_passenger": 370.62
     },
     {
         "iata_code": "HFE",
@@ -1592,7 +1880,9 @@
         "airlines": "",
         "latitude": 31.98779,
         "longitude": 116.9769,
-        "distance_from_singapore": 3667.33
+        "distance_from_singapore": 3667.33,
+        "aircraft": "B789",
+        "co2_per_passenger": 365.69
     },
     {
         "iata_code": "PVG",
@@ -1603,7 +1893,9 @@
         "airlines": "Singapore Airlines; China Eastern; Juneyao Air; +more",
         "latitude": 31.1434,
         "longitude": 121.805,
-        "distance_from_singapore": 3804.62
+        "distance_from_singapore": 3804.62,
+        "aircraft": "B789",
+        "co2_per_passenger": 378.44
     },
     {
         "iata_code": "TAO",
@@ -1614,7 +1906,9 @@
         "airlines": "",
         "latitude": 36.361953,
         "longitude": 120.088171,
-        "distance_from_singapore": 4229.51
+        "distance_from_singapore": 4229.51,
+        "aircraft": "B789",
+        "co2_per_passenger": 417.88
     },
     {
         "iata_code": "JJN",
@@ -1625,7 +1919,9 @@
         "airlines": "",
         "latitude": 24.795855,
         "longitude": 118.588599,
-        "distance_from_singapore": 3040.82
+        "distance_from_singapore": 3040.82,
+        "aircraft": "B789",
+        "co2_per_passenger": 307.54
     },
     {
         "iata_code": "WUX",
@@ -1636,7 +1932,9 @@
         "airlines": "",
         "latitude": 31.496952,
         "longitude": 120.43038,
-        "distance_from_singapore": 3769.41
+        "distance_from_singapore": 3769.41,
+        "aircraft": "B789",
+        "co2_per_passenger": 375.17
     },
     {
         "iata_code": "WNZ",
@@ -1647,7 +1945,9 @@
         "airlines": "",
         "latitude": 27.910572,
         "longitude": 120.853465,
-        "distance_from_singapore": 3454.14
+        "distance_from_singapore": 3454.14,
+        "aircraft": "B789",
+        "co2_per_passenger": 345.9
     },
     {
         "iata_code": "CKG",
@@ -1658,7 +1958,9 @@
         "airlines": "Air China; Singapore Airlines; West Air",
         "latitude": 29.712254,
         "longitude": 106.651895,
-        "distance_from_singapore": 3164.67
+        "distance_from_singapore": 3164.67,
+        "aircraft": "B789",
+        "co2_per_passenger": 319.03
     },
     {
         "iata_code": "KWE",
@@ -1669,7 +1971,9 @@
         "airlines": "",
         "latitude": 26.541805,
         "longitude": 106.80402,
-        "distance_from_singapore": 2815.69
+        "distance_from_singapore": 2815.69,
+        "aircraft": "A320",
+        "co2_per_passenger": 190.31
     },
     {
         "iata_code": "TFU",
@@ -1680,7 +1984,9 @@
         "airlines": "Sichuan Airlines; Air China; Singapore Airlines",
         "latitude": 30.31252,
         "longitude": 104.441284,
-        "distance_from_singapore": 3219.23
+        "distance_from_singapore": 3219.23,
+        "aircraft": "B789",
+        "co2_per_passenger": 324.1
     },
     {
         "iata_code": "CTU",
@@ -1691,7 +1997,9 @@
         "airlines": "",
         "latitude": 30.558257,
         "longitude": 103.945966,
-        "distance_from_singapore": 3246.21
+        "distance_from_singapore": 3246.21,
+        "aircraft": "B789",
+        "co2_per_passenger": 326.6
     },
     {
         "iata_code": "SHE",
@@ -1702,6 +2010,8 @@
         "airlines": "",
         "latitude": 41.6398,
         "longitude": 123.483668,
-        "distance_from_singapore": 4885.36
+        "distance_from_singapore": 4885.36,
+        "aircraft": "B789",
+        "co2_per_passenger": 478.75
     }
 ]

@@ -1,0 +1,6 @@
+{
+  "I":   { "region": "Southeast Asia", "economy": 1.00, "premium": 4.00 },
+  "II":  { "region": "Northeast Asia, South Asia, Australia, Papua New Guinea", "economy": 2.80, "premium": 11.20 },
+  "III": { "region": "Africa, Central and West Asia, Europe, Middle East, Pacific Islands, New Zealand", "economy": 6.40, "premium": 25.60 },
+  "IV":  { "region": "Americas", "economy": 10.40, "premium": 41.60 }
+}
