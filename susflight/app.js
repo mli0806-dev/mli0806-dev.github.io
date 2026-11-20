@@ -1,7 +1,7 @@
-// Initializes values for the app
+// Initial function for the app
 async function init() {
     // Get the list of destinations from data folder
-    const routes = await fetch('data/routes.json').then(response => response.json());
+    const routes = await fetch('data/routes.json').then(response => response.json()); // async then await fetches the routes.json file and converts it to a JSON object
     const saf_levies = await fetch('data/saf_levies.json').then(response => response.json());
 
     console.log(routes.length);
@@ -52,7 +52,7 @@ async function init() {
         }
 
         // Updates the chart with the CO2 emissions for the selected destination and some sample destinations
-        const samples = samplecodes.map(code => routes.find(r => r.iata_code === code));
+        const samples = samplecodes.map(code => routes.find(r => r.iata_code === code)); // Loops through the samplecodes array and finds the corresponding route object for each code
         samples.sort((a, b) => a.co2_per_passenger - b.co2_per_passenger); // Sorts the samples by CO2 emissions
         co2Chart.data.labels = samples.map(r => r.city + ' (' + r.iata_code + ')');
         co2Chart.data.datasets[0].data = samples.map(r => r.co2_per_passenger * cabinmultiplier);

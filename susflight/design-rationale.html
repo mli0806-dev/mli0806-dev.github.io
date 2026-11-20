@@ -21,42 +21,24 @@
                     <li>CO2 Emissions: 3.16 kg CO2 per kg of fuel burned</li>
                     <li>Passenger Share: 90% for A320, 80% for B789 and A359</li>
                     <li>Passenger Load Factor: 80% for all aircraft types</li>
-                    
-
-PYTHON<br>
-                    
-We imported pathlib, math, csv, openAP, and json. Pathlib is for accessing files and writes to files (as used when writing the routes), math is used to import the sin, cos, arctan, radians, and square root functions of the math module (for haversine), openap is used to calculate fuel flow and maximum takeoff weight (properties of plane), and json is for notating objects. CSV is used as a way to format data that we had.<br>
-
-Haversine is a formula used to calculate the distance from two locations based on their latitudes and longitudes. The parameters only include latitude and longitude, as Singapore is always a constant location (from); therefore, the longitude and latitude of the destination are always those of Singapore.<br>
-
-For aircraft type, after finding the distance with haversine, we filter the aircraft solely based on the distance traveled. Within the range of 0 - 3000 kilometers, the aircraft is an A320. Between 3000 and 9000 kilometers, it’s a B789, and anything further is an A359. (These are just common aircraft for their respective distances)<br>
-
-A dictionary is used to define the aircraft's “attributes” (e.g., number of seats, fuel, ratio of people to total space (the leftover amount is assumed to be the payload), and cruising speed).<br>
-
-Trip takes the aircraft type and distance as parameters to calculate the total fuel consumption. The maximum takeoff weight (MTOW) is assumed to be 80%, the speed of the plane is then converted from knots to kmph, and the equation of the fuel consumption in kg is given by the equation float(fuel_flow) * hours * 3600 + fuels[aircraft].<br>
-
-For co2perguy (base amount), the load factor (force of takeoff) is assumed to be 0.8 for all aircraft. Given the aircraft and distance, the function calls trip to calculate the total emissions. For every kg of fuel burnt, it releases 3.16 kgs of CO2. To get the individual amount, we divided the total emissions by the seating capacity denoted by the dictionary and the aircraft type, multiplied by the load factor to estimate the occupied seats. 
-|
--> In the app.js file, cabin class is accounted for<br>
-
-A loop is used to obtain the latitude and longitude of the airport.<br>
-
-Routes is a summary of all the data, formatted with the emissions per passenger, flight, city, country, IATA code, airport, latitude, longitude, and distance from Singapore. Each element of the routes list is one location with all the aforementioned data. It is then exported using PathLib into the raw folder defined from the start.<br>
-
-CSV<br>
-
-Formatted data that we got to the SAF levy range, the IATA code, and the city. Airports.csv includes all the data from the airports.<br>
-
-HTML/CSS
-
-An HTML/CSS stack was used for structuring the webpage UI.<br>
-
-JAVASCRIPT<br>
-
-The SAF levies file is used to determine the levy based on the region. Further regions from Singapore incur a higher levy. A premium cabin results in a higher levy (by 4 times).<br>
-
-The routes file contains all the information exported from the python fetcher file.<br>
-
+                </ul>
+                <h2>Tech Stack</h2><br>
+                <h3>Python</h3><p>
+                We imported pathlib, math, csv, openAP, and json. Pathlib is for accessing files and writes to files (as used when writing the routes), math is used to import the sin, cos, arctan, radians, and square root functions of the math module (for haversine), openap is used to calculate fuel flow and maximum takeoff weight (properties of plane), and json is for serializing data. CSV is used as a way to format data that we had.</p>
+                <p>Haversine is a formula used to calculate the distance from two locations based on their latitudes and longitudes. The parameters only include latitude and longitude, as Singapore is always a constant location (from); therefore, the longitude and latitude of the origin are always those of Singapore.</p>
+                <p>For aircraft type, after finding the distance with haversine, we filter the aircraft solely based on the distance traveled. Within the range of 0 - 3000 kilometers, the aircraft is an A320. Between 3000 and 9000 kilometers, it’s a B789, and anything further is an A359. (These are just common aircraft for their respective distances)</p>
+                <p>A dictionary is used to define the aircraft's “attributes” (e.g., number of seats, fuel, ratio of people to total space (the leftover amount is assumed to be the payload), and cruising speed).</p>
+                <p>Trip takes the aircraft type and distance as parameters to calculate the total fuel consumption. The maximum takeoff weight (MTOW) is assumed to be 80%, the speed of the plane is then converted from knots to kmph, and the equation of the fuel consumption in kg is given by the equation float(fuel_flow) * hours * 3600 + fuels[aircraft].</p>
+                <p>For co2perguy (base amount), the load factor is assumed to be 0.8 for all aircraft. Given the aircraft and distance, the function calls trip to calculate the total emissions. For every kg of fuel burnt, it releases 3.16 kgs of CO2. To get the individual amount, we divided the total emissions by the seating capacity denoted by the dictionary and the aircraft type, multiplied by the load factor to estimate the occupied seats. In the app.js file, cabin class is accounted for, and a loop is used to obtain the latitude and longitude of the airport.</p>
+                <p>Routes is a summary of all the data, formatted with the emissions per passenger, flight, city, country, IATA code, airport, latitude, longitude, and distance from Singapore. Each element of the routes list is one location with all the aforementioned data. It is then exported using PathLib into the raw folder defined from the start.</p>
+                <h3>CSV</h3><p>
+                Formatted data that we got to the SAF levy range, the IATA code, and the city. Airports.csv includes all the data from the airports.</p>
+                <h3>HTML/CSS</h3><p>
+                An HTML/CSS stack was used for structuring the webpage UI.</p>
+                <h3>JS</h3><p>
+                The SAF levies file is used to determine the levy based on the region. Further regions from Singapore incur a higher levy. A premium cabin results in a higher levy (by 4 times). The routes file contains all the information exported from the python fetcher file.</p>
+                <p>Async/await is used to handle the asynchronous operation of fetching the json files from the data folder, ensuring that the app waits for the data to be fetched before proceeding. A dropdown object is created and a for loop creates choices corresponding to each destination. A chart is then initialized with Chart.js and shows the CO2 emissions for the selected destination and some sample destinations.</p>
+                <p>The function showResults() is used to display the results for the selected destination and cabin class, culminating in calculated emissions, estimated SAF levy, and an updated chart, all responsive to different choices through innerHTML. Map and sort functions are used to organize the data for the chart and work essentially like a for loop, iterating through arrays except it returns a new array. Lastly, whenever a change is detected through either dropdown or buttons, showResults() is called to update the display.</p>
             </div>
         </main>
     </body>

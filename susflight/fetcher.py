@@ -22,11 +22,11 @@ with open(RAW / 'airports.csv', newline = "", encoding = "utf-8") as file:
             airports.append(row)
 
 # Computes haversine distance between Singapore and an airport
+latsg_rad = radians(1.3644)  # Latitude of Singapore
+lonsg_rad = radians(103.9915)  # Longitude of Singapore
 def haversine(lat2, lon2):
     R = 6371.0  # Radius of the Earth in kilometers
 
-    latsg_rad = radians(1.3644)  # Latitude of Singapore
-    lonsg_rad = radians(103.9915)  # Longitude of Singapore
     lat2_rad = radians(lat2)
     lon2_rad = radians(lon2)
 
@@ -56,14 +56,14 @@ cruise = {"A320": (450, 35000), "B789": (488, 39000), "A359": (488, 39000)} # Ty
 # Calculates total fuel consumption for a trip based on aircraft type and distance
 def trip(aircraft, distance):
     speed, altitude = cruise[aircraft]
-    mass = 0.8 * prop.aircraft(aircraft) ["mtow"]  # Assumes 80% of maximum takeoff weight for every trip
+    mass = 0.8 * prop.aircraft(aircraft) ["mtow"]  # Assumes 80% of maximum takeoff weight for every trip, uses mtow as aircraft property
     fuelflow = FuelFlow(aircraft).enroute(mass = mass, tas=speed, alt=altitude)
     hours = distance / (speed * 1.852)  # Convert speed from knots to km/h
-    return float(fuelflow) * hours * 3600 + fuels[aircraft]  # Total fuel consumption in kilograms   
+    return float(fuelflow) * hours * 3600 + fuels[aircraft]  # Total fuel consumption in kilograms, references hardcoded fuel burn for taxi/takeoff/landing
 
 # Calculates CO2 emissions per passenger for each aircraft type based on distance and load factor
 def co2perguy(aircraft, distance):
-    totalemissions = trip(aircraft, distance)  # Total emissions for the trip
+    totalemissions = trip(aircraft, distance)  # Total fuel burned for the trip
     return (totalemissions * 3.16 * persontocargo[aircraft]) / (seats[aircraft] * 0.8)  # Returns CO2 emissions per passenger cuz 1 kg of fuel burned produces 3.16 kg of CO2, and load factor is assumed to be 0.8 for all aircraft
 
 # Loops through the list of airports and calculates the distance from Singapore for each airport
@@ -90,7 +90,7 @@ for airport in airports:
         'co2_per_passenger': round(co2perguy(airport['aircraft_type'], airport['distance_from_singapore']), 2)
     })
 
-# Writes the finalized routes to a JSON file in the raw folder
+# Writes the finalized routes to a JSON file in the data folder
 DATA = Path(__file__).resolve().parent / 'data'  # Defines the path to the data folder
 with open(DATA / 'routes.json', 'w', encoding='utf-8') as json_file:
     json.dump(routes, json_file, ensure_ascii=False, indent=4)
