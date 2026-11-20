@@ -83,7 +83,6 @@ for airport in airports:
         'city': changiflights[airport['iata_code']]['city'],
         'country': airport['iso_country'],
         'saf_band': changiflights[airport['iata_code']]['saf_band'],  
-        'airlines': changiflights[airport['iata_code']]['airlines'],
         'latitude': float(airport['latitude_deg']),
         'longitude': float(airport['longitude_deg']),
         'distance_from_singapore': round(airport['distance_from_singapore'], 2),
