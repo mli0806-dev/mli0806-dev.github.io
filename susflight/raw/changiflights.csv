@@ -1,156 +1,156 @@
 iata,city,airport,country,iso_country,region,saf_band,airlines,daily_departures
-BWN,Bandar Seri Begawan,Brunei International,Brunei,BN,Southeast Asia,I,Royal Brunei Airlines; Singapore Airlines,2-3
-KTI,Phnom Penh,Techo International,Cambodia,KH,Southeast Asia,I,Singapore Airlines; Emirates,4
-SAI,Siem Reap,Siem Reap International,Cambodia,KH,Southeast Asia,I,,
-BPN,Balikpapan,Sultan Aji Muhammad Sulaiman,Indonesia,ID,Southeast Asia,I,,
-DPS,Denpasar (Bali),Ngurah Rai International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Scoot; TransNusa; +more,16-17
-CGK,Jakarta,Soekarno-Hatta International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Garuda Indonesia; Scoot; +more,30-31
-LOP,Lombok,Lombok International,Indonesia,ID,Southeast Asia,I,,
-KJT,Majalengka,Kertajati International,Indonesia,ID,Southeast Asia,I,,
-UPG,Makassar,Sultan Hasanuddin International,Indonesia,ID,Southeast Asia,I,,
-MDC,Manado,Sam Ratulangi International,Indonesia,ID,Southeast Asia,I,,
-KNO,Medan,Kualanamu International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Scoot; Batik Air,3-4
-PDG,Padang,Minangkabau International,Indonesia,ID,Southeast Asia,I,,
-PKU,Pekanbaru,Sultan Syarif Kasim II International,Indonesia,ID,Southeast Asia,I,,
-SUB,Surabaya,Juanda International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Scoot,4-5
-YIA,Yogyakarta,Yogyakarta International,Indonesia,ID,Southeast Asia,I,,
-VTE,Vientiane,Wattay International,Laos,LA,Southeast Asia,I,,
-IPH,Ipoh,Sultan Azlan Shah,Malaysia,MY,Southeast Asia,I,Scoot,3-4
-BKI,Kota Kinabalu,Kota Kinabalu International,Malaysia,MY,Southeast Asia,I,,
-KUL,Kuala Lumpur,Kuala Lumpur International,Malaysia,MY,Southeast Asia,I,AirAsia; Malaysia Airlines; Singapore Airlines; +more,36-37
-SZB,Kuala Lumpur,Subang Skypark,Malaysia,MY,Southeast Asia,I,,
-KUA,Kuantan,Sultan Ahmad Shah,Malaysia,MY,Southeast Asia,I,,
-KCH,Kuching,Kuching International,Malaysia,MY,Southeast Asia,I,AirAsia; Scoot; MASwings,4-5
-LGK,Langkawi,Langkawi International,Malaysia,MY,Southeast Asia,I,Scoot; AirAsia,2-3
-MKZ,Malacca,Malacca International,Malaysia,MY,Southeast Asia,I,,
-MYY,Miri,Miri Airport,Malaysia,MY,Southeast Asia,I,,
-PEN,Penang,Penang International,Malaysia,MY,Southeast Asia,I,Singapore Airlines; Scoot; AirAsia,12-13
-SBW,Sibu,Sibu Airport,Malaysia,MY,Southeast Asia,I,,
-TWU,Tawau,Tawau Airport,Malaysia,MY,Southeast Asia,I,,
-RGN,Yangon,Yangon International,Myanmar,MM,Southeast Asia,I,Myanmar Airways International; Singapore Airlines; Myanmar National Airlines,4-5
-CRK,Angeles (Clark),Clark International,Philippines,PH,Southeast Asia,I,,
-CEB,Cebu,Mactan-Cebu International,Philippines,PH,Southeast Asia,I,Scoot; Singapore Airlines; Cebu Pacific,2-3
-DVO,Davao,Francisco Bangoy International,Philippines,PH,Southeast Asia,I,,
-ILO,Iloilo,Iloilo International,Philippines,PH,Southeast Asia,I,,
-MNL,Manila,Ninoy Aquino International,Philippines,PH,Southeast Asia,I,Singapore Airlines; Philippine Airlines; Cebu Pacific; +more,12-13
-BKK,Bangkok,Suvarnabhumi,Thailand,TH,Southeast Asia,I,Singapore Airlines; Scoot; Thai Airways,16-17
-DMK,Bangkok,Don Mueang International,Thailand,TH,Southeast Asia,I,Thai Lion Air; Thai AirAsia,2-3
-CNX,Chiang Mai,Chiang Mai International,Thailand,TH,Southeast Asia,I,,
-HDY,Hat Yai,Hat Yai International,Thailand,TH,Southeast Asia,I,,
-USM,Koh Samui,Samui International,Thailand,TH,Southeast Asia,I,Scoot; Bangkok Airways,6
-KBV,Krabi,Krabi International,Thailand,TH,Southeast Asia,I,,
-HKT,Phuket,Phuket International,Thailand,TH,Southeast Asia,I,Singapore Airlines; Scoot,7-8
-DAD,Da Nang,Da Nang International,Vietnam,VN,Southeast Asia,I,Singapore Airlines; VietJet Air; Scoot,5
-HAN,Hanoi,Noi Bai International,Vietnam,VN,Southeast Asia,I,Singapore Airlines; Vietnam Airlines; VietJet Air; +more,5-6
-SGN,Ho Chi Minh City,Tan Son Nhat International,Vietnam,VN,Southeast Asia,I,Scoot; Singapore Airlines; VietJet Air; +more,12
-PQC,Phu Quoc,Phu Quoc International,Vietnam,VN,Southeast Asia,I,Scoot; VietJet Air,2-3
+ADD,Addis Ababa,Bole International,Ethiopia,ET,Africa,III,,
 ADL,Adelaide,Adelaide Airport,Australia,AU,Australia,II,,
-BNE,Brisbane,Brisbane Airport,Australia,AU,Australia,II,Singapore Airlines; Qantas,5-6
+AKL,Auckland,Auckland Airport,New Zealand,NZ,New Zealand,III,Air New Zealand; Singapore Airlines,2-3
+AMD,Ahmedabad,Sardar Vallabhbhai Patel International,India,IN,South Asia,II,,
+AMS,Amsterdam,Schiphol,Netherlands,NL,Europe,III,Singapore Airlines; KLM,2-3
+ATH,Athens,Eleftherios Venizelos,Greece,GR,Europe,III,,
+ATQ,Amritsar,Sri Guru Ram Dass Jee International,India,IN,South Asia,II,,
+AUH,Abu Dhabi,Zayed International,United Arab Emirates,AE,Middle East,III,,
+BAH,Bahrain,Bahrain International,Bahrain,BH,Middle East,III,,
+BBI,Bhubaneswar,Biju Patnaik International,India,IN,South Asia,II,,
+BCN,Barcelona,El Prat,Spain,ES,Europe,III,,
+BKI,Kota Kinabalu,Kota Kinabalu International,Malaysia,MY,Southeast Asia,I,,
+BKK,Bangkok,Suvarnabhumi,Thailand,TH,Southeast Asia,I,Singapore Airlines; Scoot; Thai Airways,16-17
+BLR,Bengaluru,Kempegowda International,India,IN,South Asia,II,IndiGo; Singapore Airlines,4
 BME,Broome,Broome International,Australia,AU,Australia,II,,
-CNS,Cairns,Cairns Airport,Australia,AU,Australia,II,,
-DRW,Darwin,Darwin International,Australia,AU,Australia,II,,
-MEL,Melbourne,Melbourne Airport,Australia,AU,Australia,II,Singapore Airlines; Qantas; Scoot; +more,9-10
-PER,Perth,Perth Airport,Australia,AU,Australia,II,Singapore Airlines; Scoot; Qantas,7-8
-SYD,Sydney,Sydney Kingsford Smith,Australia,AU,Australia,II,Singapore Airlines; Qantas; Scoot; +more,9-10
-DAC,Dhaka,Hazrat Shahjalal International,Bangladesh,BD,South Asia,II,US-Bangla Airlines; Biman Bangladesh; Singapore Airlines,3-4
-PEK,Beijing,Capital International,China,CN,Northeast Asia,II,Air China; Singapore Airlines,5
-PKX,Beijing,Daxing International,China,CN,Northeast Asia,II,,
-CSX,Changsha,Huanghua International,China,CN,Northeast Asia,II,,
-CTU,Chengdu,Shuangliu International,China,CN,Northeast Asia,II,,
-TFU,Chengdu,Tianfu International,China,CN,Northeast Asia,II,Sichuan Airlines; Air China; Singapore Airlines,4
-CKG,Chongqing,Jiangbei International,China,CN,Northeast Asia,II,Air China; Singapore Airlines; West Air,2-3
-FOC,Fuzhou,Changle International,China,CN,Northeast Asia,II,,
+BNE,Brisbane,Brisbane Airport,Australia,AU,Australia,II,Singapore Airlines; Qantas,5-6
+BOM,Mumbai,Chhatrapati Shivaji Maharaj International,India,IN,South Asia,II,IndiGo; Singapore Airlines; Air India,5
+BPN,Balikpapan,Sultan Aji Muhammad Sulaiman,Indonesia,ID,Southeast Asia,I,,
+BRU,Brussels,Brussels Airport,Belgium,BE,Europe,III,,
+BWN,Bandar Seri Begawan,Brunei International,Brunei,BN,Southeast Asia,I,Royal Brunei Airlines; Singapore Airlines,2-3
 CAN,Guangzhou,Baiyun International,China,CN,Northeast Asia,II,China Southern; Singapore Airlines; Scoot; +more,9-10
-KWE,Guiyang,Longdongbao International,China,CN,Northeast Asia,II,,
+CCU,Kolkata,Netaji Subhas Chandra Bose International,India,IN,South Asia,II,,
+CDG,Paris,Charles de Gaulle,France,FR,Europe,III,Singapore Airlines; Air France; Qantas,3-4
+CEB,Cebu,Mactan-Cebu International,Philippines,PH,Southeast Asia,I,Scoot; Singapore Airlines; Cebu Pacific,2-3
+CGK,Jakarta,Soekarno-Hatta International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Garuda Indonesia; Scoot; +more,30-31
+CGO,Zhengzhou,Xinzheng International,China,CN,Northeast Asia,II,,
+CHC,Christchurch,Christchurch International,New Zealand,NZ,New Zealand,III,,
+CJB,Coimbatore,Coimbatore International,India,IN,South Asia,II,,
+CJU,Jeju,Jeju International,South Korea,KR,Northeast Asia,II,,
+CKG,Chongqing,Jiangbei International,China,CN,Northeast Asia,II,Air China; Singapore Airlines; West Air,2-3
+CMB,Colombo,Bandaranaike International,Sri Lanka,LK,South Asia,II,Singapore Airlines; SriLankan Airlines,4
+CNS,Cairns,Cairns Airport,Australia,AU,Australia,II,,
+CNX,Chiang Mai,Chiang Mai International,Thailand,TH,Southeast Asia,I,,
+COK,Kochi,Cochin International,India,IN,South Asia,II,,
+CPH,Copenhagen,Copenhagen Airport,Denmark,DK,Europe,III,,
+CRK,Angeles (Clark),Clark International,Philippines,PH,Southeast Asia,I,,
+CSX,Changsha,Huanghua International,China,CN,Northeast Asia,II,,
+CTS,Sapporo,New Chitose,Japan,JP,Northeast Asia,II,,
+CTU,Chengdu,Shuangliu International,China,CN,Northeast Asia,II,,
+DAC,Dhaka,Hazrat Shahjalal International,Bangladesh,BD,South Asia,II,US-Bangla Airlines; Biman Bangladesh; Singapore Airlines,3-4
+DAD,Da Nang,Da Nang International,Vietnam,VN,Southeast Asia,I,Singapore Airlines; VietJet Air; Scoot,5
+DEL,Delhi,Indira Gandhi International,India,IN,South Asia,II,Singapore Airlines; Air India; IndiGo,5-6
+DMK,Bangkok,Don Mueang International,Thailand,TH,Southeast Asia,I,Thai Lion Air; Thai AirAsia,2-3
+DOH,Doha,Hamad International,Qatar,QA,Middle East,III,Qatar Airways,2-3
+DPS,Denpasar (Bali),Ngurah Rai International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Scoot; TransNusa; +more,16-17
+DRW,Darwin,Darwin International,Australia,AU,Australia,II,,
+DVO,Davao,Francisco Bangoy International,Philippines,PH,Southeast Asia,I,,
+DXB,Dubai,Dubai International,United Arab Emirates,AE,Middle East,III,Emirates,4
+EWR,New York,Newark Liberty International,United States,US,Americas,IV,,
+FCO,Rome,Leonardo da Vinci (Fiumicino),Italy,IT,Europe,III,,
+FOC,Fuzhou,Changle International,China,CN,Northeast Asia,II,,
+FRA,Frankfurt,Frankfurt Airport,Germany,DE,Europe,III,Singapore Airlines; Lufthansa,3
+FUK,Fukuoka,Fukuoka Airport,Japan,JP,Northeast Asia,II,,
+GAU,Guwahati,Lokpriya Gopinath Bordoloi International,India,IN,South Asia,II,,
 HAK,Haikou,Meilan International,China,CN,Northeast Asia,II,Hainan Airlines; Scoot,3-4
-HGH,Hangzhou,Xiaoshan International,China,CN,Northeast Asia,II,Scoot; Singapore Airlines; Xiamen Airlines; +more,4-5
+HAN,Hanoi,Noi Bai International,Vietnam,VN,Southeast Asia,I,Singapore Airlines; Vietnam Airlines; VietJet Air; +more,5-6
+HDY,Hat Yai,Hat Yai International,Thailand,TH,Southeast Asia,I,,
+HEL,Helsinki,Helsinki-Vantaa,Finland,FI,Europe,III,,
 HFE,Hefei,Xinqiao International,China,CN,Northeast Asia,II,,
-SWA,Jieyang,Chaoshan International,China,CN,Northeast Asia,II,,
-TNA,Jinan,Yaoqiang International,China,CN,Northeast Asia,II,,
+HGH,Hangzhou,Xiaoshan International,China,CN,Northeast Asia,II,Scoot; Singapore Airlines; Xiamen Airlines; +more,4-5
+HIJ,Hiroshima,Hiroshima Airport,Japan,JP,Northeast Asia,II,,
+HKG,Hong Kong,Hong Kong International,Hong Kong,HK,Northeast Asia,II,Cathay Pacific; Singapore Airlines; Scoot,13-14
+HKT,Phuket,Phuket International,Thailand,TH,Southeast Asia,I,Singapore Airlines; Scoot,7-8
+HND,Tokyo,Haneda,Japan,JP,Northeast Asia,II,Singapore Airlines; ANA; JAL; +more,8
+HYD,Hyderabad,Rajiv Gandhi International,India,IN,South Asia,II,Singapore Airlines; IndiGo,2-3
+ICN,Seoul,Incheon International,South Korea,KR,Northeast Asia,II,Korean Air; Singapore Airlines; Jeju Air; +more,9-10
+ILO,Iloilo,Iloilo International,Philippines,PH,Southeast Asia,I,,
+IPH,Ipoh,Sultan Azlan Shah,Malaysia,MY,Southeast Asia,I,Scoot,3-4
+IST,Istanbul,Istanbul Airport,Turkey,TR,Europe,III,Turkish Airlines; Singapore Airlines,3-4
+IXE,Mangalore,Mangalore International,India,IN,South Asia,II,,
+IXM,Madurai,Madurai International,India,IN,South Asia,II,,
+JED,Jeddah,King Abdulaziz International,Saudi Arabia,SA,Middle East,III,,
+JFK,New York,John F. Kennedy International,United States,US,Americas,IV,,
 JJN,Jinjiang,Quanzhou Jinjiang International,China,CN,Northeast Asia,II,,
-KMG,Kunming,Changshui International,China,CN,Northeast Asia,II,China Eastern; Scoot,2-3
+JNB,Johannesburg,O. R. Tambo International,South Africa,ZA,Africa,III,,
+KBV,Krabi,Krabi International,Thailand,TH,Southeast Asia,I,,
+KCH,Kuching,Kuching International,Malaysia,MY,Southeast Asia,I,AirAsia; Scoot; MASwings,4-5
+KHH,Kaohsiung,Kaohsiung International,Taiwan,TW,Northeast Asia,II,,
 KHN,Nanchang,Changbei International,China,CN,Northeast Asia,II,,
+KIX,Osaka,Kansai International,Japan,JP,Northeast Asia,II,Singapore Airlines; Peach; Scoot,4
+KJT,Majalengka,Kertajati International,Indonesia,ID,Southeast Asia,I,,
+KMG,Kunming,Changshui International,China,CN,Northeast Asia,II,China Eastern; Scoot,2-3
+KNO,Medan,Kualanamu International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Scoot; Batik Air,3-4
+KTI,Phnom Penh,Techo International,Cambodia,KH,Southeast Asia,I,Singapore Airlines; Emirates,4
+KTM,Kathmandu,Tribhuvan International,Nepal,NP,South Asia,II,,
+KUA,Kuantan,Sultan Ahmad Shah,Malaysia,MY,Southeast Asia,I,,
+KUL,Kuala Lumpur,Kuala Lumpur International,Malaysia,MY,Southeast Asia,I,AirAsia; Malaysia Airlines; Singapore Airlines; +more,36-37
+KWE,Guiyang,Longdongbao International,China,CN,Northeast Asia,II,,
+LAX,Los Angeles,Los Angeles International,United States,US,Americas,IV,,
+LGK,Langkawi,Langkawi International,Malaysia,MY,Southeast Asia,I,Scoot; AirAsia,2-3
+LGW,London,Gatwick,United Kingdom,GB,Europe,III,,
+LHR,London,Heathrow,United Kingdom,GB,Europe,III,Singapore Airlines; British Airways; Qantas,7-8
+LOP,Lombok,Lombok International,Indonesia,ID,Southeast Asia,I,,
+MAA,Chennai,Chennai International,India,IN,South Asia,II,IndiGo; Singapore Airlines; Scoot,5-6
+MAN,Manchester,Manchester Airport,United Kingdom,GB,Europe,III,,
+MDC,Manado,Sam Ratulangi International,Indonesia,ID,Southeast Asia,I,,
+MEL,Melbourne,Melbourne Airport,Australia,AU,Australia,II,Singapore Airlines; Qantas; Scoot; +more,9-10
+MFM,Macau,Macau International,Macau,MO,Northeast Asia,II,,
+MKZ,Malacca,Malacca International,Malaysia,MY,Southeast Asia,I,,
+MLE,Male,Velana International,Maldives,MV,South Asia,II,,
+MNL,Manila,Ninoy Aquino International,Philippines,PH,Southeast Asia,I,Singapore Airlines; Philippine Airlines; Cebu Pacific; +more,12-13
+MUC,Munich,Munich Airport,Germany,DE,Europe,III,,
+MXP,Milan,Malpensa,Italy,IT,Europe,III,,
+MYY,Miri,Miri Airport,Malaysia,MY,Southeast Asia,I,,
+NAN,Nadi,Nadi International,Fiji,FJ,Pacific Islands,III,,
+NGO,Nagoya,Chubu Centrair International,Japan,JP,Northeast Asia,II,,
 NKG,Nanjing,Lukou International,China,CN,Northeast Asia,II,Scoot; China Eastern,2-3
 NNG,Nanning,Wuxu International,China,CN,Northeast Asia,II,,
-TAO,Qingdao,Jiaodong International,China,CN,Northeast Asia,II,,
-SYX,Sanya,Phoenix International,China,CN,Northeast Asia,II,,
+NOU,Noumea,La Tontouta International,New Caledonia,NC,Pacific Islands,III,,
+NRT,Tokyo,Narita International,Japan,JP,Northeast Asia,II,Singapore Airlines; JAL; Scoot; +more,5
+OKA,Okinawa,Naha Airport,Japan,JP,Northeast Asia,II,,
+PDG,Padang,Minangkabau International,Indonesia,ID,Southeast Asia,I,,
+PEK,Beijing,Capital International,China,CN,Northeast Asia,II,Air China; Singapore Airlines,5
+PEN,Penang,Penang International,Malaysia,MY,Southeast Asia,I,Singapore Airlines; Scoot; AirAsia,12-13
+PER,Perth,Perth Airport,Australia,AU,Australia,II,Singapore Airlines; Scoot; Qantas,7-8
+PKU,Pekanbaru,Sultan Syarif Kasim II International,Indonesia,ID,Southeast Asia,I,,
+PKX,Beijing,Daxing International,China,CN,Northeast Asia,II,,
+PNQ,Pune,Pune International,India,IN,South Asia,II,,
+POM,Port Moresby,Jacksons International,Papua New Guinea,PG,Papua New Guinea,II,,
+PQC,Phu Quoc,Phu Quoc International,Vietnam,VN,Southeast Asia,I,Scoot; VietJet Air,2-3
+PUS,Busan,Gimhae International,South Korea,KR,Northeast Asia,II,,
 PVG,Shanghai,Pudong International,China,CN,Northeast Asia,II,Singapore Airlines; China Eastern; Juneyao Air; +more,14-15
+RGN,Yangon,Yangon International,Myanmar,MM,Southeast Asia,I,Myanmar Airways International; Singapore Airlines; Myanmar National Airlines,4-5
+SAI,Siem Reap,Siem Reap International,Cambodia,KH,Southeast Asia,I,,
+SBW,Sibu,Sibu Airport,Malaysia,MY,Southeast Asia,I,,
+SEA,Seattle,Seattle-Tacoma International,United States,US,Americas,IV,,
+SFO,San Francisco,San Francisco International,United States,US,Americas,IV,United; Singapore Airlines,4-5
+SGN,Ho Chi Minh City,Tan Son Nhat International,Vietnam,VN,Southeast Asia,I,Scoot; Singapore Airlines; VietJet Air; +more,12
 SHE,Shenyang,Taoxian International,China,CN,Northeast Asia,II,,
+SUB,Surabaya,Juanda International,Indonesia,ID,Southeast Asia,I,Singapore Airlines; Scoot,4-5
+SWA,Jieyang,Chaoshan International,China,CN,Northeast Asia,II,,
+SYD,Sydney,Sydney Kingsford Smith,Australia,AU,Australia,II,Singapore Airlines; Qantas; Scoot; +more,9-10
+SYX,Sanya,Phoenix International,China,CN,Northeast Asia,II,,
+SZB,Kuala Lumpur,Subang Skypark,Malaysia,MY,Southeast Asia,I,,
 SZX,Shenzhen,Bao'an International,China,CN,Northeast Asia,II,Shenzhen Airlines; China Southern; Singapore Airlines,7-8
+TAO,Qingdao,Jiaodong International,China,CN,Northeast Asia,II,,
+TFU,Chengdu,Tianfu International,China,CN,Northeast Asia,II,Sichuan Airlines; Air China; Singapore Airlines,4
+TNA,Jinan,Yaoqiang International,China,CN,Northeast Asia,II,,
+TPE,Taipei,Taoyuan International,Taiwan,TW,Northeast Asia,II,Scoot; EVA Air; Singapore Airlines; +more,9-10
+TRV,Thiruvananthapuram,Trivandrum International,India,IN,South Asia,II,,
+TRZ,Tiruchirappalli,Tiruchirappalli International,India,IN,South Asia,II,Air India Express; Scoot; IndiGo,4-5
 TSN,Tianjin,Binhai International,China,CN,Northeast Asia,II,,
+TWU,Tawau,Tawau Airport,Malaysia,MY,Southeast Asia,I,,
+UPG,Makassar,Sultan Hasanuddin International,Indonesia,ID,Southeast Asia,I,,
+USM,Koh Samui,Samui International,Thailand,TH,Southeast Asia,I,Scoot; Bangkok Airways,6
+VTE,Vientiane,Wattay International,Laos,LA,Southeast Asia,I,,
+VTZ,Visakhapatnam,Visakhapatnam International,India,IN,South Asia,II,,
 WNZ,Wenzhou,Longwan International,China,CN,Northeast Asia,II,,
 WUH,Wuhan,Tianhe International,China,CN,Northeast Asia,II,,
 WUX,Wuxi,Sunan Shuofang International,China,CN,Northeast Asia,II,,
 XIY,Xi'an,Xianyang International,China,CN,Northeast Asia,II,,
 XMN,Xiamen,Gaoqi International,China,CN,Northeast Asia,II,Xiamen Airlines; Singapore Airlines,4
-CGO,Zhengzhou,Xinzheng International,China,CN,Northeast Asia,II,,
-HKG,Hong Kong,Hong Kong International,Hong Kong,HK,Northeast Asia,II,Cathay Pacific; Singapore Airlines; Scoot,13-14
-AMD,Ahmedabad,Sardar Vallabhbhai Patel International,India,IN,South Asia,II,,
-ATQ,Amritsar,Sri Guru Ram Dass Jee International,India,IN,South Asia,II,,
-BLR,Bengaluru,Kempegowda International,India,IN,South Asia,II,IndiGo; Singapore Airlines,4
-BBI,Bhubaneswar,Biju Patnaik International,India,IN,South Asia,II,,
-MAA,Chennai,Chennai International,India,IN,South Asia,II,IndiGo; Singapore Airlines; Scoot,5-6
-CJB,Coimbatore,Coimbatore International,India,IN,South Asia,II,,
-DEL,Delhi,Indira Gandhi International,India,IN,South Asia,II,Singapore Airlines; Air India; IndiGo,5-6
-GAU,Guwahati,Lokpriya Gopinath Bordoloi International,India,IN,South Asia,II,,
-HYD,Hyderabad,Rajiv Gandhi International,India,IN,South Asia,II,Singapore Airlines; IndiGo,2-3
-COK,Kochi,Cochin International,India,IN,South Asia,II,,
-CCU,Kolkata,Netaji Subhas Chandra Bose International,India,IN,South Asia,II,,
-IXM,Madurai,Madurai International,India,IN,South Asia,II,,
-IXE,Mangalore,Mangalore International,India,IN,South Asia,II,,
-BOM,Mumbai,Chhatrapati Shivaji Maharaj International,India,IN,South Asia,II,IndiGo; Singapore Airlines; Air India,5
-PNQ,Pune,Pune International,India,IN,South Asia,II,,
-TRV,Thiruvananthapuram,Trivandrum International,India,IN,South Asia,II,,
-TRZ,Tiruchirappalli,Tiruchirappalli International,India,IN,South Asia,II,Air India Express; Scoot; IndiGo,4-5
-VTZ,Visakhapatnam,Visakhapatnam International,India,IN,South Asia,II,,
-FUK,Fukuoka,Fukuoka Airport,Japan,JP,Northeast Asia,II,,
-HIJ,Hiroshima,Hiroshima Airport,Japan,JP,Northeast Asia,II,,
-NGO,Nagoya,Chubu Centrair International,Japan,JP,Northeast Asia,II,,
-OKA,Okinawa,Naha Airport,Japan,JP,Northeast Asia,II,,
-KIX,Osaka,Kansai International,Japan,JP,Northeast Asia,II,Singapore Airlines; Peach; Scoot,4
-CTS,Sapporo,New Chitose,Japan,JP,Northeast Asia,II,,
-HND,Tokyo,Haneda,Japan,JP,Northeast Asia,II,Singapore Airlines; ANA; JAL; +more,8
-NRT,Tokyo,Narita International,Japan,JP,Northeast Asia,II,Singapore Airlines; JAL; Scoot; +more,5
-MFM,Macau,Macau International,Macau,MO,Northeast Asia,II,,
-MLE,Male,Velana International,Maldives,MV,South Asia,II,,
-KTM,Kathmandu,Tribhuvan International,Nepal,NP,South Asia,II,,
-POM,Port Moresby,Jacksons International,Papua New Guinea,PG,Papua New Guinea,II,,
-PUS,Busan,Gimhae International,South Korea,KR,Northeast Asia,II,,
-CJU,Jeju,Jeju International,South Korea,KR,Northeast Asia,II,,
-ICN,Seoul,Incheon International,South Korea,KR,Northeast Asia,II,Korean Air; Singapore Airlines; Jeju Air; +more,9-10
-CMB,Colombo,Bandaranaike International,Sri Lanka,LK,South Asia,II,Singapore Airlines; SriLankan Airlines,4
-KHH,Kaohsiung,Kaohsiung International,Taiwan,TW,Northeast Asia,II,,
-TPE,Taipei,Taoyuan International,Taiwan,TW,Northeast Asia,II,Scoot; EVA Air; Singapore Airlines; +more,9-10
-BAH,Bahrain,Bahrain International,Bahrain,BH,Middle East,III,,
-BRU,Brussels,Brussels Airport,Belgium,BE,Europe,III,,
-CPH,Copenhagen,Copenhagen Airport,Denmark,DK,Europe,III,,
-ADD,Addis Ababa,Bole International,Ethiopia,ET,Africa,III,,
-NAN,Nadi,Nadi International,Fiji,FJ,Pacific Islands,III,,
-HEL,Helsinki,Helsinki-Vantaa,Finland,FI,Europe,III,,
-CDG,Paris,Charles de Gaulle,France,FR,Europe,III,Singapore Airlines; Air France; Qantas,3-4
-FRA,Frankfurt,Frankfurt Airport,Germany,DE,Europe,III,Singapore Airlines; Lufthansa,3
-MUC,Munich,Munich Airport,Germany,DE,Europe,III,,
-ATH,Athens,Eleftherios Venizelos,Greece,GR,Europe,III,,
-MXP,Milan,Malpensa,Italy,IT,Europe,III,,
-FCO,Rome,Leonardo da Vinci (Fiumicino),Italy,IT,Europe,III,,
-AMS,Amsterdam,Schiphol,Netherlands,NL,Europe,III,Singapore Airlines; KLM,2-3
-NOU,Noumea,La Tontouta International,New Caledonia,NC,Pacific Islands,III,,
-AKL,Auckland,Auckland Airport,New Zealand,NZ,New Zealand,III,Air New Zealand; Singapore Airlines,2-3
-CHC,Christchurch,Christchurch International,New Zealand,NZ,New Zealand,III,,
-DOH,Doha,Hamad International,Qatar,QA,Middle East,III,Qatar Airways,2-3
-JED,Jeddah,King Abdulaziz International,Saudi Arabia,SA,Middle East,III,,
-JNB,Johannesburg,O. R. Tambo International,South Africa,ZA,Africa,III,,
-BCN,Barcelona,El Prat,Spain,ES,Europe,III,,
-ZRH,Zurich,Zurich Airport,Switzerland,CH,Europe,III,,
-IST,Istanbul,Istanbul Airport,Turkey,TR,Europe,III,Turkish Airlines; Singapore Airlines,3-4
-AUH,Abu Dhabi,Zayed International,United Arab Emirates,AE,Middle East,III,,
-DXB,Dubai,Dubai International,United Arab Emirates,AE,Middle East,III,Emirates,4
-LGW,London,Gatwick,United Kingdom,GB,Europe,III,,
-LHR,London,Heathrow,United Kingdom,GB,Europe,III,Singapore Airlines; British Airways; Qantas,7-8
-MAN,Manchester,Manchester Airport,United Kingdom,GB,Europe,III,,
+YIA,Yogyakarta,Yogyakarta International,Indonesia,ID,Southeast Asia,I,,
 YVR,Vancouver,Vancouver International,Canada,CA,Americas,IV,,
-LAX,Los Angeles,Los Angeles International,United States,US,Americas,IV,,
-EWR,New York,Newark Liberty International,United States,US,Americas,IV,,
-JFK,New York,John F. Kennedy International,United States,US,Americas,IV,,
-SFO,San Francisco,San Francisco International,United States,US,Americas,IV,United; Singapore Airlines,4-5
-SEA,Seattle,Seattle-Tacoma International,United States,US,Americas,IV,,
+ZRH,Zurich,Zurich Airport,Switzerland,CH,Europe,III,,
